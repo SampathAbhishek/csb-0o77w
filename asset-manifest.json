@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.js": "https://sampathabhishek.github.io/csb-0o77w/static/js/main.9163c4e0.chunk.js",
+    "main.js.map": "https://sampathabhishek.github.io/csb-0o77w/static/js/main.9163c4e0.chunk.js.map",
+    "runtime-main.js": "https://sampathabhishek.github.io/csb-0o77w/static/js/runtime-main.0a53a49b.js",
+    "runtime-main.js.map": "https://sampathabhishek.github.io/csb-0o77w/static/js/runtime-main.0a53a49b.js.map",
+    "static/css/2.df27db5b.chunk.css": "https://sampathabhishek.github.io/csb-0o77w/static/css/2.df27db5b.chunk.css",
+    "static/js/2.50ed4502.chunk.js": "https://sampathabhishek.github.io/csb-0o77w/static/js/2.50ed4502.chunk.js",
+    "static/js/2.50ed4502.chunk.js.map": "https://sampathabhishek.github.io/csb-0o77w/static/js/2.50ed4502.chunk.js.map",
+    "static/js/3.ad0a02ae.chunk.js": "https://sampathabhishek.github.io/csb-0o77w/static/js/3.ad0a02ae.chunk.js",
+    "static/js/3.ad0a02ae.chunk.js.map": "https://sampathabhishek.github.io/csb-0o77w/static/js/3.ad0a02ae.chunk.js.map",
+    "static/js/4.792d96ef.chunk.js": "https://sampathabhishek.github.io/csb-0o77w/static/js/4.792d96ef.chunk.js",
+    "static/js/4.792d96ef.chunk.js.map": "https://sampathabhishek.github.io/csb-0o77w/static/js/4.792d96ef.chunk.js.map",
+    "static/js/5.80b2dcd3.chunk.js": "https://sampathabhishek.github.io/csb-0o77w/static/js/5.80b2dcd3.chunk.js",
+    "static/js/5.80b2dcd3.chunk.js.map": "https://sampathabhishek.github.io/csb-0o77w/static/js/5.80b2dcd3.chunk.js.map",
+    "static/js/6.8975f4a4.chunk.js": "https://sampathabhishek.github.io/csb-0o77w/static/js/6.8975f4a4.chunk.js",
+    "static/js/6.8975f4a4.chunk.js.map": "https://sampathabhishek.github.io/csb-0o77w/static/js/6.8975f4a4.chunk.js.map",
+    "index.html": "https://sampathabhishek.github.io/csb-0o77w/index.html",
+    "static/css/2.df27db5b.chunk.css.map": "https://sampathabhishek.github.io/csb-0o77w/static/css/2.df27db5b.chunk.css.map",
+    "static/js/2.50ed4502.chunk.js.LICENSE.txt": "https://sampathabhishek.github.io/csb-0o77w/static/js/2.50ed4502.chunk.js.LICENSE.txt",
+    "static/media/index.css": "https://sampathabhishek.github.io/csb-0o77w/static/media/NotoColorEmoji-flags.148141ac.woff2",
+    "static/media/str-chat__connection-error.svg": "https://sampathabhishek.github.io/csb-0o77w/static/media/str-chat__connection-error.90385cff.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0a53a49b.js",
+    "static/css/2.df27db5b.chunk.css",
+    "static/js/2.50ed4502.chunk.js",
+    "static/js/main.9163c4e0.chunk.js"
+  ]
+}
